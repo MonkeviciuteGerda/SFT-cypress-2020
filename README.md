@@ -4,7 +4,7 @@
 ### 1. Clone via Sourcetree
 
 1. Click [Clone/New] button
-2. Copy paste "https://github.com/nikolaj-tolkaciov/sourcery-cypress.git" into [Source Path / URL] input
+2. Copy paste "https://github.com/MonkeviciuteGerda/SFT-cypress-2020.git" into [Source Path / URL] input
 3. Input your desired path to store the repository on your local machine into [Destination Path] input 
 4. Click the [Clone] button
 
