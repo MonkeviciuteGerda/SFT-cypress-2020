@@ -1,0 +1,15 @@
+{
+  "name": "sft-cypress-2020",
+  "version": "1.0.0",
+  "description": "Cypress project for test automation lecture in SFT 2020",
+  "main": "index.js",
+  "scripts": {
+    "setup": "npm install && setup.bat",
+    "cypress:open": "cypress open"
+  },
+  "author": "Devbridge",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.0.1"
+  }
+}
